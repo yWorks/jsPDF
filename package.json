@@ -21,9 +21,9 @@
     "url": "https://github.com/yWorks/jsPDF.git"
   },
   "dependencies": {
-    "adler32cs": "github:chick307/adler32cs.js",
+    "adler32cs": "git+https://github.com/chick307/adler32cs.js",
     "cf-blob.js": "0.0.1",
-    "filesaver.js": "github:andyinabox/FileSaver.js"
+    "filesaver.js": "git+https://github.com/andyinabox/FileSaver.js"
   },
   "devDependencies": {
     "babel-plugin-external-helpers": "^6.22.0",
